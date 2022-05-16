@@ -1,0 +1,43 @@
+p {
+    background-color:green;
+    color: white;
+    margin: 10%;
+    padding: 1%;
+    border-width: 0cm;
+}
+
+.title:hover {
+    color: red;
+}
+
+.intro{
+    display: block;
+
+}
+
+.box {
+width: 43%;
+height: 20%;
+margin: 10%;
+padding: 5%;
+border: 5% solid black;
+}
+
+.navbar{
+    display: flex;
+}
+.navbar > div {
+    flex: 1;
+}
+
+.positioned {
+border: 2px solid black;
+color: transparent;
+position: fixed;
+max-width: 10px;
+}
+
+.container{
+
+}
+ 
